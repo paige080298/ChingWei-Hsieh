@@ -8,6 +8,6 @@ Hi, I'm ChingWei Hsieh, an Information Engineering student from Taiwan who is pa
 - ⚙️ Has passion for: Data Science, Data Analytics,  Backend Coding, Cloud, Unity.
 - 🌱 Currently learning about applications on Data Analytics and Cloud Architecture.
 - ⭐ Software Skills: C, Java, Python, SQL, VHDL, Matlab.
-- 💬 How to reach me: [Outlook](mailto:chingwei.hsieh@haw-hamburg.de) [Gmail](mailto:paige080298@gmail.com)
+- 💬 How to reach me: [Outlook](mailto:chingwei.hsieh@haw-hamburg.de), [Gmail](mailto:paige080298@gmail.com)
 
 
